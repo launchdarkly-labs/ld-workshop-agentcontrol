@@ -17,7 +17,7 @@ until [ -f /opt/instruqt/bootstrap/host-bootstrap-completed ]; do
 done
 
 REPO=/opt/ld/ai-configs-intro
-REPO_URL="https://github.com/launchdarkly-labs/ld-workshop-ai-configs-intro.git"
+REPO_URL="https://github.com/launchdarkly-labs/ld-workshop-agentcontrol.git"
 REPO_REF="${REPO_REF:-main}"
 
 # 0. Sync the baked repo clone to the current commit. The VM image bakes a
