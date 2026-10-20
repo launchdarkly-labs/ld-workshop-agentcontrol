@@ -1,6 +1,6 @@
 slug: ld-agentcontrol-build
 id: b4zo7ne2wuvj
-title: Build an AI Assistant with AgentControl
+title: 'AgentControl 1: Build an AI Assistant with AgentControl'
 teaser: Take an AI assistant from placeholder line to production. Iterate prompts,
   swap models, target audiences, measure in flight — all without redeploying.
 description: AgentControl lets you treat prompts, models, and targeting as runtime
